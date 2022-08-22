@@ -1,5 +1,6 @@
 #img1
 {
+
     margin-top: -90px;
     margin-left: 200px;
     transform: rotate(-90deg);
@@ -8,7 +9,7 @@
 }
 #img2
 {   
-    filter: blur(5px);
+    filter: blur(10px);
     margin-top: -90px;
     margin-left: 200px;
     transform: rotate(-90deg);
@@ -17,7 +18,7 @@
 }
 #img3
 {
-    filter:brightness(150%);
+    filter:brightness(2);
     margin-top: -90px;
     margin-left: 200px;
     transform: rotate(-90deg);
@@ -44,7 +45,7 @@
 }
 #img6
 {
-    filter: grayscale(50%);
+    filter: grayscale(100%);
     margin-top: -90px;
     margin-left: 200px;
     transform: rotate(-90deg);
@@ -53,7 +54,7 @@
 }
 #img7
 {
-    filter: hue-rotate(200grad);
+    filter: hue-rotate(0.5turn);
     margin-top: -90px;
     margin-left: 200px;
     transform: rotate(-90deg);
@@ -87,36 +88,9 @@
     height: 600px;
     width: 400px;
 }
-#img10
-{
-    filter: saturate(50%);
-    margin-top: -90px;
-    margin-left: 200px;
-    transform: rotate(-90deg);
-    height: 600px;
-    width: 400px;
-}
-#img10
-{
-    filter: saturate(50%);
-    margin-top: -90px;
-    margin-left: 200px;
-    transform: rotate(-90deg);
-    height: 600px;
-    width: 400px;
-}
-#img10
-{
-    filter: saturate(50%);
-    margin-top: -90px;
-    margin-left: 200px;
-    transform: rotate(-90deg);
-    height: 600px;
-    width: 400px;
-}
 #img11
 {
-    filter: sepia(50%);
+    filter: sepia(100%);
     margin-top: -90px;
     margin-left: 200px;
     transform: rotate(-90deg);
